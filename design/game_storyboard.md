@@ -7,25 +7,24 @@
 
 **Theme:**
 
-TODO: Name and briefly describe your game's theme.
+Zombie Outbreak- A survival horror gametes inside a hospital that has been overrun by zombies.
 
 **Storyline:**
 
-TODO: In one short paragraph, explain the setting, the player's goal, the items
-the player must gather, and the threat created by the villain.
+A deadly zombie outbreak has taken over a hospital, trapping the player inside with infected patients roaming the halls. The player's goal is to search the hospital and collect six important supplies: medicine, a keycard, food, a flashlight, a first aid kit, and a vaccine. Patient Zero, the most dangerous infected person in the hospital, is being held in the Isolation Ward. The player must collect all six items before entering the Isolation Ward. If the player encounters Patient Zero before collecting everything, they lose. If all six items are collected first, the player can survive the encounter and escape the hospital.
 
 ## Rooms
 
 Project One requires a minimum of eight rooms.
 
-1. TODO: Start room
-2. TODO: Room
-3. TODO: Room
-4. TODO: Room
-5. TODO: Room
-6. TODO: Room
-7. TODO: Room
-8. TODO: Villain room
+1. Lobby - Start room
+2. Pharmacy
+3. Security Office
+4. Cafeteria
+5. Supply Closet
+6. Emergency Room
+7. Laboratory
+8. Isolation Ward - Villain room (Patient Zero)
 
 Add more rooms if your design needs them.
 
@@ -34,19 +33,19 @@ Add more rooms if your design needs them.
 With the minimum eight-room design, Project One requires at least six items.
 Every room except the start room and villain room must contain one item.
 
-1. TODO: Item
-2. TODO: Item
-3. TODO: Item
-4. TODO: Item
-5. TODO: Item
-6. TODO: Item
+1. Medicine - Pharmacy
+2. Keycard - Security Office
+3. Food - Cafeteria
+4. Flashlight - Supply Closet
+5. First Aid Kit - Emergency Room
+6. Vaccine - Laboratory
 
 If you add rooms beyond the minimum, add an item for every additional room
 except the start room and villain room.
 
 ## Villain
 
-TODO: Identify and briefly describe the villain.
+Patient Zero - Patient Zero is the most dangerous infected person in the hospital. The player must avoid entering the Isolation Ward where Patient Zero is located until all six items have been collected.
 
 ## Storyboard and Map Check
 
